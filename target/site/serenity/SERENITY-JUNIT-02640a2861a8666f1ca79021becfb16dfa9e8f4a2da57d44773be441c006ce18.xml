@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.swagger.petstore.testsuite.DataDrivenTestPet" skipped="0" tests="25" time="19.04" timestamp="2023-01-10T18:31:19.499Z[Europe/London]"><testcase classname="io.swagger.petstore.testsuite.DataDrivenTestPet" name="Data driven test for adding multiple students"/></testsuite>

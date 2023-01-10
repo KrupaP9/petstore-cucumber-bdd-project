@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tag with user runner","This test will verify if a status code of 405 is returned for GET request","SUCCESS","2023-01-10T18:31:22.058Z[Europe/London]","0.0","0.49"
+"Tag with user runner","This test will provide an error code of 404 when user tries to access an invalid resource","SUCCESS","2023-01-10T18:31:22.548Z[Europe/London]","0.0","0.51"
